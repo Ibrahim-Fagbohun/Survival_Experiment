@@ -22,7 +22,7 @@ library(glmmTMB)
 library(patchwork)
 
 ## Load relevant data 
-Full_Survival_Experiment_Data <- read_excel("~/OneDrive - The Pennsylvania State University/My Research/Data/CBT_Survival_Data/Cleaned_CBT_Survival_Data/Full_Survival_Experiment_Data.xlsx")
+Survival_Experiment_Data <- read.csv("https://raw.githubusercontent.com/Ibrahim-Fagbohun/Survival_Experiment/main/Survival_Experiment_Data.csv")
 Functional_Trait_Data <- read_excel("~/OneDrive - The Pennsylvania State University/My Research/Data/CBT_Survival_Data/Cleaned_CBT_Survival_Data/Functional_Trait_Data.xlsx")
 
 ###############################################################################################################################
