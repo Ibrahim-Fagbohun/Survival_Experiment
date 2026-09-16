@@ -19,10 +19,6 @@ library(ggnewscale)
 library(rnaturalearth)
 library(rnaturalearthdata)
 
-## Set working directory 
-getwd()
-setwd( "/Users/ibrah/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/My Research/Data")
-
 ## Load relevant data 
 Survival_Experiment_Sites <- read_excel("~/OneDrive - The Pennsylvania State University/My Research/Data/CBT_Survival_Data/Cleaned_CBT_Survival_Data/Final_Survival_Experiment_Sites.xlsx")
 Maryland_Watersheds <- st_read("Maryland_Watersheds/Maryland_Watersheds.shp") ## Maryland Watershed boundaries downloaded from Maryland DNR Website. 
