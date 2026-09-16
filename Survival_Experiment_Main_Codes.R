@@ -19,7 +19,7 @@ library(patchwork)
 
 ## Load relevant data 
 Survival_Experiment_Data <- read.csv("https://raw.githubusercontent.com/Ibrahim-Fagbohun/Survival_Experiment/main/Survival_Experiment_Data.csv")
-Functional_Trait_Data <- read_csv("https://raw.githubusercontent.com/Ibrahim-Fagbohun/Survival_Experiment/main/Functional_Trait_Data.csv")
+Functional_Trait_Data <- read.csv("https://raw.githubusercontent.com/Ibrahim-Fagbohun/Survival_Experiment/main/Functional_Trait_Data.csv")
 
 ###############################################################################################################################
 ## Convert long survival experiment data into wide format 
