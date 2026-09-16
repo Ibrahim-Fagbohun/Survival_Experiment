@@ -25,13 +25,16 @@ Contact phone no: 582-203-0389
 Repository Contents
 
 1. Survival_Experiment_Data (.csv)
-The complete dataset generated form the survival experiment field and laboratory work. A detailed description of all variables is provided in the accompanying metadata file. 
+The complete dataset generated form the survival experiment field and laboratory work. A detailed description of all variables is provided in the accompanying metadata file.
 
-2. Meta_data (.txt)
+2. Functional_Trait_Data (.csv)
+The complete dataset showing functional trait assignment for all identified taxa from the survival experiment.    
+
+3. Meta_data (.txt)
 A full metadata document describing each variable, including units and data type  
 
-3. Survival_Experiment_Main_Codes (.R)
+5. Survival_Experiment_Main_Codes (.R)
 All R scripts used for data loading, cleaning, wrangling, modeling and visualization for the survival experiment
 
-4. Map_Codes (.R)
+6. Map_Codes (.R)
 R scripts used to generate maps of the study area, including watershed boundaries and all donor and recipient stream sites. 
