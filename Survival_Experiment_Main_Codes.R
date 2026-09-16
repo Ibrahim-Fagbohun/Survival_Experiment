@@ -22,7 +22,7 @@ Survival_Experiment_Data <- read.csv("https://raw.githubusercontent.com/Ibrahim-
 Functional_Trait_Data <- read_csv("https://raw.githubusercontent.com/Ibrahim-Fagbohun/Survival_Experiment/main/Functional_Trait_Data.csv")
 
 ###############################################################################################################################
-## Convert long data into Wide Format 
+## Convert long survival experiment data into wide format 
 Wide_Survival_Experiment_Data <- Survival_Experiment_Data %>%
   pivot_wider(
     names_from = Lowest_Taxonomic_Unit,
