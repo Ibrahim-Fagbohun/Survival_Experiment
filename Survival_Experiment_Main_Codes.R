@@ -2,10 +2,6 @@
 ## Date: 04/04/26
 ## Aim: Analyse data from the survival experiment study.  
 
-## Get and set working directory 
-getwd()
-setwd("/Users/ibrah/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/My Research/Data")
-
 ## Load relevant libraries 
 library(readxl)
 library(dplyr)
