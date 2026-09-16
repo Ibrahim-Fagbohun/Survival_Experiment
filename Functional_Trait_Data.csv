@@ -1,0 +1,75 @@
+﻿TAXON,Family,Order,Lowest_Taxonomic_Unit,Tolerance_Category,FFG,Primary_Habitat,Secondary_Habitat,Max_Body_Size ,Rheophily,Body_Armor ,Respiration
+AESHNA,Aeshnidae,Odonata,Aeshna,Moderately_Sensitive,Predator,Climber,Sprawler,Large,Depositional,None,Gills
+AGABUS,Dytiscidae,Coleoptera,Agabus,Moderately_Sensitive,Predator,Swimmer,Climber,Medium,Depositional_Erosional,Poor,Plastron
+ALLOCAPNIA,Capniidae,Plecoptera,Allocapnia,Moderately_Sensitive,Shredder,Clinger,Swimmer,Small,Erosional,None,Tegument
+AMELETUS,Ameletidae,Ephemeroptera,Ameletus,Sensitive,Collector,Swimmer,Clinger,Medium,Depositional_Erosional,None,Gills
+AMPHINEMURA,Nemouridae,Plecoptera,Amphinemura,Sensitive,Shredder,Sprawler,Clinger,Small,Depositional_Erosional,None,Gills
+ANCHYTARSUS,Ptilodactylidae,Coleoptera,Anchytarsus,Sensitive,Shredder,Clinger,Sprawler,Medium,Erosional,Poor,Gills
+ANCYRONYX,Elmidae,Coleoptera,Ancyronyx,Tolerant,Collector,Clinger,Sprawler,Small,Erosional,Poor,Tegument
+ANTOCHA,Limoniidae,Diptera,Antocha,Tolerant,Collector,Clinger,Sprawler,Medium,Depositional_Erosional,None,Gills
+ARGIA,Coenagrionidae,Odonata,Argia,Tolerant,Predator,Clinger,Sprawler,Large,Depositional_Erosional,None,Tegument
+ATTENELLA,Ephemerellidae,Ephemeroptera,Attenella,Sensitive,Collector,Clinger,Clinger,Medium,Erosional,None,Gills
+BAETIDAE,Baetidae,Ephemeroptera,Baetidae,Sensitive,Collector,,,,,,
+BAETIS,Baetidae,Ephemeroptera,Baetis,Sensitive,Collector,Swimmer,Swimmer,Small,Erosional,None,Gills
+BAETISCA,Baetiscidae,Ephemeroptera,Baetisca,Moderately_Sensitive,Collector,Sprawler,Swimmer,Medium,Erosional,Poor,Gills
+BOYERIA,Aeshnidae,Odonata,Boyeria,Tolerant,Predator,Climber,Clinger,Large,Depositional_Erosional,None,Gills
+CALOPTERYX,Calopterygiidae,Odonata,Calopteryx,Tolerant,Predator,Climber,Clinger,Large,Depositional,None,Gills
+CAMBARUS,Cambaridae,Decapoda,Cambarus,Sensitive,Collector,Sprawler,Sprawler,Large,,Poor,
+CHEUMATOPSYCHE,Hydropsychidae,Trichoptera,Cheumatopsyche,Tolerant,Filterer,Clinger,Burrower,Small,Erosional,None,Gills
+CHIMARRA,Philopotamidae,Trichoptera,Chimarra,Moderately_Sensitive,Filterer,Clinger,Clinger,Small,Erosional,None,Tegument
+CHIRONOMIDAE,Chironomidae,Diptera,Chironomidae,Tolerant,,,,Small,,None,Tegument
+CRAMBIDAE,Crambidae,Decapoda,Crambidae,Unknown ,Shredder,Climber,,,,,
+DIPLECTRONA,Hydropsychidae,Trichoptera,Diplectrona,Sensitive,Filterer,Clinger,Predator,Medium,Erosional,None,Gills
+DIXA,Dixidae,Diptera,Dixa,Moderately_Sensitive,Collector,Swimmer,Climber,Small,Erosional,None,Tegument
+DOLOPHILODES,Philopotamidae,Trichoptera,Dolophilodes,Sensitive,Filterer,Clinger,Clinger,Small,Erosional,None,Tegument
+DUBIRAPHIA,Elmidae,Coleoptera,Dubiraphia,Moderately_Sensitive,Collector,Clinger,Climber,Small,Depositional_Erosional,Poor,Tegument
+ECCOPTURA,Perlidae,Plecoptera,Eccoptura,Sensitive,Predator,Clinger,Clinger,Large,Erosional,Poor,Gills
+ENTOMOBRYIDAE,Entomobryidae,Colembolla,Entomobryidae,Unknown ,Collector,,,,,,
+EPHEMERELLA,Ephemerellidae,Ephemeroptera,Ephemerella,Sensitive,Collector,Clinger,Swimmer,Medium,Erosional,None,Gills
+EURYLOPHELLA,Ephemerellidae,Ephemeroptera,Eurylophella,Moderately_Sensitive,Collector,Clinger,Sprawler,Medium,Erosional,None,Gills
+GAMMARUS,Gammaridae,Amphipoda,Gammarus,Tolerant,Shredder,Sprawler,,,,,
+GLOSSOSOMA,Glossosomatidae,Trichoptera,Glossosoma,Sensitive,Scraper,Clinger,Clinger,Small,Erosional,Good,Tegument
+HELICHUS,Dryopidae,Coleoptera,Helichus,Tolerant,Scraper,Clinger,Clinger,Small,Erosional,Poor,Plastron
+HEMERODROMIA,Empididae,Diptera,Hemerodromia,Tolerant,Predator,Sprawler,Burrower,Medium,Depositional_Erosional,None,Tegument
+HEPTAGENIIDAE,Heptageniidae,Ephemeroptera,Heptageniidae,Sensitive,Scraper,Clinger,,,,,
+HYDATOPHYLAX,Limnephilidae,Trichoptera,Hydatophylax,Sensitive,Shredder,Sprawler,Sprawler,Large,Depositional,Good,Gills
+HYDRACHNIDA,,Hydrachnida,Hydrachnida,Unknown ,,,,,,,
+HYDROPSYCHE,Hydropsychidae,Trichoptera,Hydropsyche,Tolerant,Filterer,Clinger,Swimmer,Medium,Erosional,None,Gills
+IRONOQUIA,Limnephilidae,Trichoptera,Ironoquia,Moderately_Sensitive,Shredder,Climber,Climber,Large,Depositional_Erosional,Poor,Gills
+ISONYCHIA,Isonychiidae,Ephemeroptera,Isonychia,Sensitive,Filterer,Swimmer,Clinger,Medium,Erosional,None,Gills
+ISOPERLA,Perlodidae,Plecoptera,Isoperla,Sensitive,Predator,Clinger,Clinger,Medium,Erosional,Poor,Tegument
+LEPIDOSTOMA,Lepidostomatidae,Trichoptera,Lepidostoma,Sensitive,Shredder,Climber,Sprawler,Small,Depositional_Erosional,Poor,Gills
+LEPTOCERIDAE,Leptoceridae,Trichoptera,Leptoceridae,Moderately_Sensitive,Collector,,,,,,
+LEPTOPHLEBIA,Leptophlebidae,Ephemeroptera,Leptophlebia,Sensitive,Collector,Swimmer,Clinger,Small,Erosional,None,Gills
+MACCAFFERTIUM,Heptageniidae,Ephemeroptera,Maccaffertium,Sensitive,Scraper,Clinger,Swimmer,Medium,Erosional,None,Gills
+MICROVELIA,Veliidae,Hemiptera,Microvelia,Tolerant,Predator,Skater,Swimmer,Small,Depositional,None,Plastron
+MOLANNA,Molannidae,Trichoptera,Molanna,Tolerant,Scraper,Sprawler,Sprawler,Large,Depositional,Good,Gills
+NEOLEPTOPHLEBIA,Leptophlebidae,Ephemeroptera,Neoleptophlebia,Unknown ,,,,,,,
+NEOPERLA,Perlidae,Plecoptera,Neoperla,Sensitive,Predator,Clinger,Clinger,Medium,Erosional,Poor,Gills
+NEOPHYLAX,Thremmatidae,Trichoptera,Neophylax,Sensitive,Scraper,Clinger,Clinger,Medium,Erosional,Good,Gills
+NEURECLIPSIS,Polycentropodidae,Trichoptera,Neureclipsis,Sensitive,Filterer,Clinger,Clinger,Medium,Erosional,None,Tegument
+NIGRONIA,Corydalidae,Megaloptera,Nigronia,Sensitive,Predator,Clinger,Climber,Large,Depositional_Erosional,Poor,Tegument
+NYCTIOPHYLAX,Polycentropodidae,Trichoptera,Nyctiophylax,Sensitive,Predator,Clinger,Clinger,Medium,Depositional_Erosional,None,Tegument
+OECETIS,Leptoceridae,Trichoptera,Oecetis,Moderately_Sensitive,Predator,Clinger,Sprawler,Medium,Depositional_Erosional,Good,Gills
+OPTIOSERVUS,Elmidae,Coleoptera,Optioservus,Moderately_Sensitive,Scraper,Clinger,Clinger,Small,Erosional,Poor,Tegument
+PENELOMAX,Ephemerellidae,Ephemeroptera,Penelomax,Sensitive,Collector,,,Medium,Depositional_Erosional,None,Gills
+PHYSA,Physidae,Mollusca,Physa,Tolerant,Scraper,Climber,Climber,Large,Depositional_Erosional,Poor,Tegument
+PLECTROCNEMIA,Polycentropodidae,Trichoptera,Plectrocnemia,Sensitive,Predator,Clinger,Clinger,Medium,Erosional,None,Tegument
+POLYCENTROPUS,Polycentropodidae,Trichoptera,Polycentropus,Sensitive,Predator,Clinger,Clinger,Medium,Erosional,None,Tegument
+POLYMITARCYIDAE,Polymitarcyidae,Ephemeroptera,Polymitarcyidae,Sensitive,Collector,Burrower,,,,,
+PROBEZZIA,Ceratopogonidae,Diptera,Probezzia,Sensitive,Predator,Burrower,Sprawler,Small,Depositional_Erosional,None,Tegument
+PSILOTRETA,Odontoceridae,Trichoptera,Psilotreta,Sensitive,Scraper,Sprawler,Sprawler,Medium,Depositional_Erosional,Good,Gills
+PTILOSTOMIS,Phrygaenidae,Trichoptera,Ptilostomis,Moderately_Sensitive,Shredder,Climber,Clinger,Large,Depositional_Erosional,Poor,Gills
+PYCNOPSYCHE,Limnephilidae,Trichoptera,Pycnopsyche,Sensitive,Shredder,Sprawler,Sprawler,Large,Depositional_Erosional,Good,Gills
+RHAGOVELIA,Veliidae,Hemiptera,Rhagovelia,Tolerant,Predator,Skater,Swimmer,Small,Depositional_Erosional,None,Tegument
+RHYACOPHILA,Rhyacophilidae,Trichoptera,Rhyacophila,Sensitive,Predator,Clinger,Clinger,Medium,Erosional,None,Tegument
+SERRATELLA,Ephemerellidae,Ephemeroptera,Serratella,Sensitive,Collector,Clinger,Clinger,Small,Erosional,None,Gills
+SHIPSA,Nemouridae,Plecoptera,Shipsa,Sensitive,Shredder,Sprawler,Sprawler,Small,Depositional_Erosional,None,Tegument
+SIMULIUM,Simulidae,Diptera,Simulium,Moderately_Sensitive,Filterer,Clinger,Clinger,Small,Erosional,None,Tegument
+STENELMIS,Elmidae,Coleoptera,Stenelmis,Tolerant,Scraper,Clinger,Clinger,Small,Depositional_Erosional,Poor,Tegument
+TAENIOPTERYX,Taeniopterygidae,Plecoptera,Taeniopteryx,Moderately_Sensitive,Shredder,Sprawler,Sprawler,Medium,Depositional_Erosional,None,Gills
+TELOGANOPSIS,Ephemerellidae,Ephemeroptera,Teloganopsis,Unknown ,Collector,Clinger,Clinger,Small,Depositional_Erosional,None,Gills
+TIMPANOGA,Ephemerellidae,Ephemeroptera,Timpanoga,Sensitive,Collector,Clinger,Sprawler,Medium,Depositional_Erosional,None,Gills
+TIPULA,Tipulidae,Diptera,Tipula,Tolerant,Shredder,Burrower,Burrower,Large,Depositional_Erosional,None,Gills
+TRIAENODES,Leptoceridae,Trichoptera,Triaenodes,Moderately_Sensitive,Shredder,Swimmer,Climber,Medium,Depositional_Erosional,Good,Gills
+TROPISTERNUS,Hydrophilidae,Coleoptera,Tropisternus,Moderately_Sensitive,Predator,Climber,Swimmer,Medium,Depositional,Poor,Tegument
