@@ -33,8 +33,5 @@ The complete dataset showing functional trait assignment for all identified taxa
 3. Meta_data (.txt)
 A full metadata document describing each variable, including units and data type  
 
-5. Survival_Experiment_Main_Codes (.R)
-All R scripts used for data loading, cleaning, wrangling, modeling and visualization for the survival experiment
-
-6. Map_Codes (.R)
-R scripts used to generate maps of the study area, including watershed boundaries and all donor and recipient stream sites. 
+4. Survival_Experiment_Main_Codes (.R)
+All R scripts used for data loading, cleaning, wrangling, modeling and visualization for the survival experiment 
