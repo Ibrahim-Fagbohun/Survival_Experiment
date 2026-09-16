@@ -1,0 +1,12 @@
+Site_Type: This is a categorical variable that indicates whether the site was used as a donor site (Pre-transplant) or a recipient site (Post-Transplant). 
+
+Sampling_Time: This is a categorical variable that indicates the season in which sampling takes place, and it has two levels: “Fall” and “Spring”
+	 
+Substrate_Type: This is a categorical variable that indicates the type of substrate contained in the habitat tubes, and it has two levels, “Rock” and “Leaf”
+
+Watershed: This is a categorical variable that indicates the watershed in which the recipient site is located. It has three levels, i.e., “Little Patuxent”, “Loch Raven,” and “Potomac_River”
+
+Lowest taxonomic unit: A categorical variable indicating the finest taxonomic level to which each macroinvertebrate was identified (typically genus, but in some cases species or family depending on diagnostic characters). Each row represents the abundance of a single taxonomic unit within a habitat tube.
+
+Abundance: This is a numeric/count variable that indicates the total number of individual macroinvertebrates per habitat tube.  
+
