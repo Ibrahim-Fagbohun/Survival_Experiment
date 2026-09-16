@@ -23,19 +23,25 @@ library(patchwork)
 
 ## Load relevant data 
 Survival_Experiment_Data <- read.csv("https://raw.githubusercontent.com/Ibrahim-Fagbohun/Survival_Experiment/main/Survival_Experiment_Data.csv")
-Functional_Trait_Data <- read_excel("~/OneDrive - The Pennsylvania State University/My Research/Data/CBT_Survival_Data/Cleaned_CBT_Survival_Data/Functional_Trait_Data.xlsx")
+Functional_Trait_Data <- read_csv("https://raw.githubusercontent.com/Ibrahim-Fagbohun/Survival_Experiment/main/Functional_Trait_Data.csv")
 
 ###############################################################################################################################
+## Convert long data into Wide Format 
+Wide_Survival_Experiment_Data <- Survival_Experiment_Data %>%
+  pivot_wider(
+    names_from = Lowest_Taxonomic_Unit,
+    values_from = Abundance
+  )
 ## Objective One (Effect of site type on community composition)
 ## Separate full data into metadata and taxa data 
-Taxa_Data <- Full_Survival_Experiment_Data [, 6:74]
-Metadata <- Full_Survival_Experiment_Data [, 1:5]
+Taxa_Data <- Wide_Survival_Experiment_Data [, 6:74]
+Metadata <- Wide_Survival_Experiment_Data [, 1:5]
 
 ## For the NMDS and PERMANOVA analysis, separate full data into Fall and Spring Data to avoid strong seasonal variations from overwhelming the analysis. 
-Fall_Samples <- Full_Survival_Experiment_Data %>%
+Fall_Samples <- Wide_Survival_Experiment_Data %>%
   filter(Sampling_Time == "Fall")
 
-Spring_Samples <- Full_Survival_Experiment_Data %>%
+Spring_Samples <- Wide_Survival_Experiment_Data %>%
   filter(Sampling_Time == "Spring")
 
 ## Separate fall dataset into Community matrix and metadata 
