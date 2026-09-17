@@ -1,3 +1,7 @@
+Cage_ID: This is a unique identifier for each of the habitat tubes deployed in the fall and spring 
+
+Site_ID: This is a unique identifier for each each of the six sites (3 donor and 3 recipient) used in the study. 
+
 Site_Type: This is a categorical variable that indicates whether the site was used as a donor site (Pre-transplant) or a recipient site (Post-Transplant). 
 
 Sampling_Time: This is a categorical variable that indicates the season in which sampling takes place, and it has two levels: “Fall” and “Spring”
@@ -9,4 +13,3 @@ Watershed: This is a categorical variable that indicates the watershed in which 
 Lowest taxonomic unit: A categorical variable indicating the finest taxonomic level to which each macroinvertebrate was identified (typically genus, but in some cases species or family depending on diagnostic characters). Each row represents the abundance of a single taxonomic unit within a habitat tube.
 
 Abundance: This is a numeric/count variable that indicates the total number of individual macroinvertebrates per habitat tube.  
-
