@@ -1,6 +1,6 @@
-Cage_ID: This is a unique identifier for each of the habitat tubes deployed in the fall and spring 
+Cage_ID: A unique identifier assigned to each habitat tube deployed during the fall and spring sampling periods. 
 
-Site_ID: This is a unique identifier for each each of the six sites (3 donor and 3 recipient) used in the study. 
+Site_ID: A unique identifier for each of the six study sites (Three donor sites and three recipient sites).  
 
 Site_Type: This is a categorical variable that indicates whether the site was used as a donor site (Pre-transplant) or a recipient site (Post-Transplant). 
 
