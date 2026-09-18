@@ -28,7 +28,7 @@ Repository Contents
 The complete dataset generated form the survival experiment field and laboratory work. A detailed description of all variables is provided in the accompanying metadata file.
 
 2. Functional_Trait_Data (.csv)
-The complete dataset showing functional trait assignment for all identified taxa from the survival experiment.    
+This dataset contains the full set of functional trait assignments for all taxa identified in the survival experiment. Traits include Pollution-tolerance, Functional Feeding Guild (FFG), body size, rheophily, primary habitat, secondary habitat, body armor and respiration.    
 
 3. Meta_data (.txt)
 A full metadata document describing each variable, including units and data type  
